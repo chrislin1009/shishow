@@ -47,5 +47,5 @@
 - [HW 1/2](HW_1_2.ipynb)
   
 ## Final Report
-- [EX05-01](EX05_01_Echo_Bot.ipynb)
+- [FR](Final_Report.ipynb)
 
