@@ -47,5 +47,5 @@
 - [HW 1/2](HW_1_2.ipynb)
   
 ## Final Report
-- [FR](Final_Report.ipynb)
+- [Final Report](Final_Report.ipynb)
 
